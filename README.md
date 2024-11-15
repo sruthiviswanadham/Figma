@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:1-05-2024
+## Date:15-11-2024
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -82,7 +82,7 @@ Saveethaengineeringcollege@gmail.com
 ```
 
 ## OUTPUT:
-![Screenshot (50)](https://github.com/nanditha121/Figma/assets/142209508/9addfb99-ac85-438c-8d8f-7a4b98bd5d6c)
+![Screenshot 2024-11-15 214109](https://github.com/user-attachments/assets/fdc3cd79-b7c6-434f-b8ac-eab1037b90c2)
 
 
 
